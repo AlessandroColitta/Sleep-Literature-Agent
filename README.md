@@ -43,7 +43,7 @@ The agent tracks newly deposited DOIs via the Crossref REST API for:
 ---
 
 ## 👨‍⚕️ Author
-Developed by **Alessandro Colitta**, M.D., ESRS Sleep Medicine Expert.
+Developed by **Alessandro Colitta**, M.D., ESRS Sleep Medicine Expert, using Gemini 3.8 Flash.
 
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).
