@@ -71,8 +71,9 @@ function weeklySleepBriefing() {
      - Journal of Pineal Research
      - Journal of Clinical Sleep Medicine
   2. For each article:
-     - Provide the title as a clickable link using its URL
-     - Add a concise Research & Clinical Takeaway highlighting scientific and practical relevance.
+     - Provide the title as a clickable link using its URL.
+     - Directly beneath the title, write a concise 1-2 sentence explanation of the study's key findings and clinical/scientific relevance.
+     - CRITICAL: Do NOT write any repetitive labels or prefixes such as "Research Takeaway:", "Takeaway:", "Summary:", or "Key Finding:". Simply write the text directly.
 
   Do NOT wrap in markdown code blocks (\`\`\`html). Output pure HTML only.
   `;
